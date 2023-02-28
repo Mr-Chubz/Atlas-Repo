@@ -32,7 +32,7 @@
 
 {
 "name": "Land Carrier",
-"unitType": "Land Carrier",
+"unitType": "Heavy Cavalry",
 "range": 2,
 "movement": 1,
 "strength": 70,
