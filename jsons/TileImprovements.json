@@ -1,0 +1,18 @@
+[
+  {
+		"name": "Chicken Coop",
+		"food": 2,
+		"turnsToBuild": 7,
+		"techRequired": "Animal Husbandry",
+		"improvingTech": "Industrialization",
+		"improvingTechStats": {"prdouction":2}
+	},
+	{
+		"name": "Apiary",
+		"food": 2,
+		"turnsToBuild": 7,
+		"techRequired": "Calendar",
+		"improvingTech": "Industrialization",
+		"improvingTechStats": {"production":2}
+	}
+  ]
